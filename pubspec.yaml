@@ -40,6 +40,8 @@ dependencies:
   dio: ^4.0.6
   process_run: ^0.12.5+2
   desktop_window: ^0.4.0
+  uuid: ^3.0.7
+  oktoast: ^3.3.1
 
 dev_dependencies:
   flutter_test:
